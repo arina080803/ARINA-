@@ -92,13 +92,3 @@ def transpose(array):
         res = res + [tmp]
     return res
 
-
-#A = [[6, 2, 3, 9],
-#     [4, 1, 3, 0],
-#     [7, 9, 2, 5]]
-
-#print_matrix(A)
-#A = transpose(A)
-#C = inverse(A)
-#print("\n")
-#print_matrix(C)
